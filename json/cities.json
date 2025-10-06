@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "name": "Adana",
+    "is_metropolitan": "1",
+    "plate_number": "01"
+  },
+  {
+    "id": 2,
+    "name": "Adıyaman",
+    "is_metropolitan": "0",
+    "plate_number": "02"
+  },
+  {
+    "id": 3,
+    "name": "Afyonkarahisar",
+    "is_metropolitan": "0",
+    "plate_number": "03"
+  },
+  {
+    "id": 4,
+    "name": "Ağrı",
+    "is_metropolitan": "0",
+    "plate_number": "04"
+  },
+  {
+    "id": 5,
+    "name": "Amasya",
+    "is_metropolitan": "0",
+    "plate_number": "05"
+  },
+  {
+    "id": 6,
+    "name": "Ankara",
+    "is_metropolitan": "1",
+    "plate_number": "06"
+  },
+  {
+    "id": 7,
+    "name": "Antalya",
+    "is_metropolitan": "1",
+    "plate_number": "07"
+  },
+  {
+    "id": 8,
+    "name": "Artvin",
+    "is_metropolitan": "0",
+    "plate_number": "08"
+  },
+  {
+    "id": 9,
+    "name": "Aydın",
+    "is_metropolitan": "1",
+    "plate_number": "09"
+  },
+  {
+    "id": 10,
+    "name": "Balıkesir",
+    "is_metropolitan": "1",
+    "plate_number": "10"
+  },
+  {
+    "id": 11,
+    "name": "Bilecik",
+    "is_metropolitan": "0",
+    "plate_number": "11"
+  },
+  {
+    "id": 12,
+    "name": "Bingöl",
+    "is_metropolitan": "0",
+    "plate_number": "12"
+  },
+  {
+    "id": 13,
+    "name": "Bitlis",
+    "is_metropolitan": "0",
+    "plate_number": "13"
+  },
+  {
+    "id": 14,
+    "name": "Bolu",
+    "is_metropolitan": "0",
+    "plate_number": "14"
+  },
+  {
+    "id": 15,
+    "name": "Burdur",
+    "is_metropolitan": "0",
+    "plate_number": "15"
+  },
+  {
+    "id": 16,
+    "name": "Bursa",
+    "is_metropolitan": "1",
+    "plate_number": "16"
+  },
+  {
+    "id": 17,
+    "name": "Çanakkale",
+    "is_metropolitan": "0",
+    "plate_number": "17"
+  },
+  {
+    "id": 18,
+    "name": "Çankırı",
+    "is_metropolitan": "0",
+    "plate_number": "18"
+  },
+  {
+    "id": 19,
+    "name": "Çorum",
+    "is_metropolitan": "0",
+    "plate_number": "19"
+  },
+  {
+    "id": 20,
+    "name": "Denizli",
+    "is_metropolitan": "1",
+    "plate_number": "20"
+  },
+  {
+    "id": 21,
+    "name": "Diyarbakır",
+    "is_metropolitan": "1",
+    "plate_number": "21"
+  },
+  {
+    "id": 22,
+    "name": "Edirne",
+    "is_metropolitan": "0",
+    "plate_number": "22"
+  },
+  {
+    "id": 23,
+    "name": "Elazığ",
+    "is_metropolitan": "0",
+    "plate_number": "23"
+  },
+  {
+    "id": 24,
+    "name": "Erzincan",
+    "is_metropolitan": "0",
+    "plate_number": "24"
+  },
+  {
+    "id": 25,
+    "name": "Erzurum",
+    "is_metropolitan": "1",
+    "plate_number": "25"
+  },
+  {
+    "id": 26,
+    "name": "Eskişehir",
+    "is_metropolitan": "1",
+    "plate_number": "26"
+  },
+  {
+    "id": 27,
+    "name": "Gaziantep",
+    "is_metropolitan": "1",
+    "plate_number": "27"
+  },
+  {
+    "id": 28,
+    "name": "Giresun",
+    "is_metropolitan": "0",
+    "plate_number": "28"
+  },
+  {
+    "id": 29,
+    "name": "Gümüşhane",
+    "is_metropolitan": "0",
+    "plate_number": "29"
+  },
+  {
+    "id": 30,
+    "name": "Hakkari",
+    "is_metropolitan": "0",
+    "plate_number": "30"
+  },
+  {
+    "id": 31,
+    "name": "Hatay",
+    "is_metropolitan": "1",
+    "plate_number": "31"
+  },
+  {
+    "id": 32,
+    "name": "Isparta",
+    "is_metropolitan": "0",
+    "plate_number": "32"
+  },
+  {
+    "id": 33,
+    "name": "Mersin",
+    "is_metropolitan": "1",
+    "plate_number": "33"
+  },
+  {
+    "id": 34,
+    "name": "İstanbul",
+    "is_metropolitan": "1",
+    "plate_number": "34"
+  },
+  {
+    "id": 35,
+    "name": "İzmir",
+    "is_metropolitan": "1",
+    "plate_number": "35"
+  },
+  {
+    "id": 36,
+    "name": "Kars",
+    "is_metropolitan": "0",
+    "plate_number": "36"
+  },
+  {
+    "id": 37,
+    "name": "Kastamonu",
+    "is_metropolitan": "0",
+    "plate_number": "37"
+  },
+  {
+    "id": 38,
+    "name": "Kayseri",
+    "is_metropolitan": "1",
+    "plate_number": "38"
+  },
+  {
+    "id": 39,
+    "name": "Kırklareli",
+    "is_metropolitan": "0",
+    "plate_number": "39"
+  },
+  {
+    "id": 40,
+    "name": "Kırşehir",
+    "is_metropolitan": "0",
+    "plate_number": "40"
+  },
+  {
+    "id": 41,
+    "name": "Kocaeli",
+    "is_metropolitan": "1",
+    "plate_number": "41"
+  },
+  {
+    "id": 42,
+    "name": "Konya",
+    "is_metropolitan": "1",
+    "plate_number": "42"
+  },
+  {
+    "id": 43,
+    "name": "Kütahya",
+    "is_metropolitan": "0",
+    "plate_number": "43"
+  },
+  {
+    "id": 44,
+    "name": "Malatya",
+    "is_metropolitan": "1",
+    "plate_number": "44"
+  },
+  {
+    "id": 45,
+    "name": "Manisa",
+    "is_metropolitan": "1",
+    "plate_number": "45"
+  },
+  {
+    "id": 46,
+    "name": "Kahramanmaraş",
+    "is_metropolitan": "1",
+    "plate_number": "46"
+  },
+  {
+    "id": 47,
+    "name": "Mardin",
+    "is_metropolitan": "1",
+    "plate_number": "47"
+  },
+  {
+    "id": 48,
+    "name": "Muğla",
+    "is_metropolitan": "1",
+    "plate_number": "48"
+  },
+  {
+    "id": 49,
+    "name": "Muş",
+    "is_metropolitan": "0",
+    "plate_number": "49"
+  },
+  {
+    "id": 50,
+    "name": "Nevşehir",
+    "is_metropolitan": "0",
+    "plate_number": "50"
+  },
+  {
+    "id": 51,
+    "name": "Niğde",
+    "is_metropolitan": "0",
+    "plate_number": "51"
+  },
+  {
+    "id": 52,
+    "name": "Ordu",
+    "is_metropolitan": "1",
+    "plate_number": "52"
+  },
+  {
+    "id": 53,
+    "name": "Rize",
+    "is_metropolitan": "0",
+    "plate_number": "53"
+  },
+  {
+    "id": 54,
+    "name": "Sakarya",
+    "is_metropolitan": "1",
+    "plate_number": "54"
+  },
+  {
+    "id": 55,
+    "name": "Samsun",
+    "is_metropolitan": "1",
+    "plate_number": "55"
+  },
+  {
+    "id": 56,
+    "name": "Siirt",
+    "is_metropolitan": "0",
+    "plate_number": "56"
+  },
+  {
+    "id": 57,
+    "name": "Sinop",
+    "is_metropolitan": "0",
+    "plate_number": "57"
+  },
+  {
+    "id": 58,
+    "name": "Sivas",
+    "is_metropolitan": "0",
+    "plate_number": "58"
+  },
+  {
+    "id": 59,
+    "name": "Tekirdağ",
+    "is_metropolitan": "1",
+    "plate_number": "59"
+  },
+  {
+    "id": 60,
+    "name": "Tokat",
+    "is_metropolitan": "0",
+    "plate_number": "60"
+  },
+  {
+    "id": 61,
+    "name": "Trabzon",
+    "is_metropolitan": "1",
+    "plate_number": "61"
+  },
+  {
+    "id": 62,
+    "name": "Tunceli",
+    "is_metropolitan": "0",
+    "plate_number": "62"
+  },
+  {
+    "id": 63,
+    "name": "Şanlıurfa",
+    "is_metropolitan": "1",
+    "plate_number": "63"
+  },
+  {
+    "id": 64,
+    "name": "Uşak",
+    "is_metropolitan": "0",
+    "plate_number": "64"
+  },
+  {
+    "id": 65,
+    "name": "Van",
+    "is_metropolitan": "1",
+    "plate_number": "65"
+  },
+  {
+    "id": 66,
+    "name": "Yozgat",
+    "is_metropolitan": "0",
+    "plate_number": "66"
+  },
+  {
+    "id": 67,
+    "name": "Zonguldak",
+    "is_metropolitan": "0",
+    "plate_number": "67"
+  },
+  {
+    "id": 68,
+    "name": "Aksaray",
+    "is_metropolitan": "0",
+    "plate_number": "68"
+  },
+  {
+    "id": 69,
+    "name": "Bayburt",
+    "is_metropolitan": "0",
+    "plate_number": "69"
+  },
+  {
+    "id": 70,
+    "name": "Karaman",
+    "is_metropolitan": "0",
+    "plate_number": "70"
+  },
+  {
+    "id": 71,
+    "name": "Kırıkkale",
+    "is_metropolitan": "0",
+    "plate_number": "71"
+  },
+  {
+    "id": 72,
+    "name": "Batman",
+    "is_metropolitan": "0",
+    "plate_number": "72"
+  },
+  {
+    "id": 73,
+    "name": "Şırnak",
+    "is_metropolitan": "0",
+    "plate_number": "73"
+  },
+  {
+    "id": 74,
+    "name": "Bartın",
+    "is_metropolitan": "0",
+    "plate_number": "74"
+  },
+  {
+    "id": 75,
+    "name": "Ardahan",
+    "is_metropolitan": "0",
+    "plate_number": "75"
+  },
+  {
+    "id": 76,
+    "name": "Iğdır",
+    "is_metropolitan": "0",
+    "plate_number": "76"
+  },
+  {
+    "id": 77,
+    "name": "Yalova",
+    "is_metropolitan": "0",
+    "plate_number": "77"
+  },
+  {
+    "id": 78,
+    "name": "Karabük",
+    "is_metropolitan": "0",
+    "plate_number": "78"
+  },
+  {
+    "id": 79,
+    "name": "Kilis",
+    "is_metropolitan": "0",
+    "plate_number": "79"
+  },
+  {
+    "id": 80,
+    "name": "Osmaniye",
+    "is_metropolitan": "0",
+    "plate_number": "80"
+  },
+  {
+    "id": 81,
+    "name": "Düzce",
+    "is_metropolitan": "0",
+    "plate_number": "81"
+  }
+]
